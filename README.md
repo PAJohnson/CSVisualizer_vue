@@ -1,5 +1,7 @@
 # vue_csvisualizer
 
+This is a demonstration of a csv reader and plotter in Vue
+
 ## Project setup
 ```
 npm install
